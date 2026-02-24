@@ -1,7 +1,7 @@
 
   # NEWDAY
 
-  This is a code bundle for NEWDAY. The original project is available at https://www.figma.com/design/DoaOACqtjWogAHsVHnXlYQ/NEWDAY.
+  This is a code bundle for NEWDAY.
 
   ## Running the code
 
